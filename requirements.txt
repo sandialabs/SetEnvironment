@@ -1,4 +1,10 @@
+# Core Requirements
 configparser
+
+# Unit Testing Requirements
+mock
+pytest
+pytest-cov
 
 # Private Repositories
 configparserenhanced @ git+https://github.com/sandialabs/ConfigParserEnhanced@master#egg=configparserenhanced
