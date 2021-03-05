@@ -6,8 +6,8 @@ authors = [
     "William McLendon <wcmclen@sandia.gov>"
 ]
 readme = "README.md"
-documentation = "http://10.202.35.89:8080/SetEnvironmentNew/doc/index.html"
-repository = "''New"
+documentation = "http://10.202.35.89:8080/SetEnvironment/doc/index.html"
+repository = "''"
 classifiers = [
     'Development Status :: 3 - Alpha',
     'Intended Audience :: DevOps',
