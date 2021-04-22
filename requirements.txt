@@ -7,5 +7,5 @@ pytest
 pytest-cov
 
 # Private Repositories
-configparserenhanced @ git+https://github.com/sandialabs/ConfigParserEnhanced@master#egg=configparserenhanced
+configparserenhanced @ git+ssh://git@github.com:sandialabs/ConfigParserEnhanced.git@master#egg=configparserenhanced
 
