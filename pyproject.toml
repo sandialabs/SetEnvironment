@@ -6,7 +6,7 @@ authors = [
     "William McLendon <wcmclen@sandia.gov>"
 ]
 readme = "README.md"
-documentation = "http://10.202.35.89:8080/SetEnvironment/doc/index.html"
+documentation = "http://localhost:8080/SetEnvironment/doc/index.html"
 repository = "''"
 classifiers = [
     'Development Status :: 3 - Alpha',
