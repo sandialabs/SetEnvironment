@@ -7,7 +7,7 @@ authors = [
 ]
 readme = "README.md"
 documentation = "http://localhost:8080/SetEnvironment/doc/index.html"
-repository = "''"
+repository = ""
 classifiers = [
     'Development Status :: 3 - Alpha',
     'Intended Audience :: DevOps',
